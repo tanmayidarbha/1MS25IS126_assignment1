@@ -1,0 +1,6 @@
+{
+  "name": "ArXivArch - CS Research & Architecture Agent",
+  "description": "Advanced token-efficient Computer Science research agent for parsing academic papers, extracting Mermaid system architectures, and engineering high-impact student resume projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
